@@ -1,0 +1,15 @@
+/* Empty. Add your own CSS if you like */
+
+.display {
+    background-color:palegreen;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.expression {
+    height: 50px;
+    background-color:lightgray;
+    text-align: center;
+    font-size: small;
+
+}
